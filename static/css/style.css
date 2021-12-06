@@ -201,8 +201,22 @@ select{
   position: absolute;
   width: 100%; }
 
-#smoke {
-  z-index: 99; }
+#smoke{
+  padding: 3px 0px;
+  z-index: 99;
+  color: #999;
+}
+
+#gender{
+  padding: 3px 0px;
+  z-index: 2;
+  color: #999;
+}
+#location{
+  padding: 3px 0px;
+  z-index: 99;
+  color: #999;
+}
 
 
 
