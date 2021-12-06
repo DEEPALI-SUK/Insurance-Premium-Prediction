@@ -1,2 +1,2 @@
 # Insurance-Premium-Prediction
-![Screenshot (619)](https://user-images.githubusercontent.com/64724041/144853594-9dc3f068-312a-419d-b8a0-a21958c394b7.png)
+![Screenshot (621)](https://user-images.githubusercontent.com/64724041/144864981-2645124a-d2ec-456c-950f-06a8bb3a7123.png)
